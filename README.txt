@@ -1,0 +1,1 @@
+This is the game project created to learn some fetures in Monogame dev in environment of linux. It's fully build in bin folder, and may be lunched from there!
