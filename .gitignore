@@ -1,0 +1,4 @@
+#Ignore bin foilder for git
+/.idea
+/.vscode
+/Content

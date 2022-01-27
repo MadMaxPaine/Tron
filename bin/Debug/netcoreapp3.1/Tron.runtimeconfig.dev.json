@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/madmaxpaine/.dotnet/store/|arch|/|tfm|",
+      "/home/madmaxpaine/.nuget/packages"
+    ]
+  }
+}

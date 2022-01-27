@@ -1,0 +1,2 @@
+/home/madmaxpaine/RiderProjects/Tron/bin/netcoreapp3.1/publish/Tron.pdb
+/home/madmaxpaine/RiderProjects/Tron/bin/netcoreapp3.1/publish/Tron

@@ -1,0 +1,2 @@
+/home/madmaxpaine/RiderProjects/Tron/bin/publish/Tron.pdb
+/home/madmaxpaine/RiderProjects/Tron/bin/publish/Tron
